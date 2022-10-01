@@ -29,7 +29,7 @@ export function Input() {
         <div className="flex justify-between items-center my-6 p-4 rounded-xl bg-neutral-200 dark:bg-neutral-700">
             <input
                 className="w-full px-6 py-4 rounded-xl bg-neutral-50 dark:bg-neutral-800 dark:text-neutral-50"
-                placeholder="What's new?"
+                placeholder="What's new???"
                 type="text"
                 aria-label="Type your post"
                 value={value}
