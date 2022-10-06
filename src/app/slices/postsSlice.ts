@@ -5,7 +5,6 @@ export interface IPost {
     id: string,
     text: string,
 }
-
 export interface IPosts {
     value: IPost[];
 }
